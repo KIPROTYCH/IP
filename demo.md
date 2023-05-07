@@ -7,7 +7,9 @@ INDEPENDENT PROJECT-Personal Potfolio Website
 Create a <!DOCTYPE html> element
 Create a <html></html> element.
 Add title to the page <title></title>
+
 Add a body element <body></body>
+
 Introduced a division <div></div> called class
 Embeded an Image into the division created using <img> tag
 Add relevant attribute to html such as src
