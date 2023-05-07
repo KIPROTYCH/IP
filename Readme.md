@@ -6,7 +6,7 @@
 
 
 
-    My PORTFOLIO DESIGN:
+My PORTFOLIO DESIGN:
 ![Yegon Portfolio Design](https://user-images.githubusercontent.com/132657175/236694926-65e2b34e-15db-484b-8103-7eba13a3a3cd.jpg)
 
 
@@ -47,4 +47,5 @@ customised the box using different properties ee.g font style, font-family etc
 Navigated to the paragraph p and customised it
 
 navigated to the .box division and customised it
+
 introduced the overflow
