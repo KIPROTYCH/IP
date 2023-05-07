@@ -3,8 +3,7 @@
  This is a project on creating a professional website providing information about me,what I do, services I offer and how to contact me.
 
  Link to my live gh-page:
-
-
+ https://kiprotych.github.io/IP/
 
 
 My PORTFOLIO DESIGN:
