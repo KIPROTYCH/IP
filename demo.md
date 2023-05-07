@@ -9,12 +9,13 @@ Create a <!DOCTYPE html> element
 Create a <html></html> element.
 Add title to the page <title></title>
 Add a body element <body></body>
+
 Introduced a division <div></div> called class
 Embeded an Image into the division created using <img> tag
 Add relevant attribute to html such as src
+
 Add several subheadings inside the body element <h1></h1>
 Add several paragraphs <p></p>
-
 Add several list to the website both ordered <ol></ol> and unordered <ul></ul>
 introduced different icons and customised the to my liking
 
