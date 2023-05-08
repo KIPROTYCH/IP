@@ -35,6 +35,7 @@ Added a link to the css file
 create a file styles.css
 
 link the stylesheet file from our HTML file using the <link> tag, 
+
 navigate to box and customize its properties and values margin, background color, by linking using the background. url.
 
 change the background color the background-color property.
