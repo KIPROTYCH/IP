@@ -1,6 +1,8 @@
-    YEGON KIPROTICH
+
     INDEPENDENT PROJECT-Personal Potfolio Website
+
  This is a project on creating a professional website providing information about me,what I do, services I offer and how to contact me.
+ this project is created by YEGON KIPROTICH
 
  Link to my live gh-page:
  https://kiprotych.github.io/IP/
