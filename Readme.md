@@ -30,6 +30,7 @@ Added a link to navigate to a different site using <a> tag that has an href attr
 
 Added a link to the css file
 
+
            STYLES.CSS
 
 create a file styles.css
@@ -47,6 +48,6 @@ customised the box using different properties ee.g font style, font-family etc
 
 Navigated to the paragraph p and customised it
 
-navigated to the .box division and customised it
+navigated to the .box division and customised it according to my liking
 
 introduced the overflow
