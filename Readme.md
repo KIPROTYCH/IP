@@ -44,5 +44,5 @@ The languages I used to create this website is HTML, CSS
 
 
 ### License
-Copyright (c) {2023} **{List of contributors or company name}** YEGON
+Copyright (c) {2023} **{YEGON}** 
 

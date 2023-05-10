@@ -148,14 +148,16 @@ a:hover{
 
 }
 .Nav {
+    display: block;
     background-color: teal;
     overflow: hidden;
-   
-  color: #f2f2f2;
-  text-align: center;
-  padding: 10px 16px;
-  text-decoration: none;
-  font-size: 17px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
   }
 
   .Nav a:hover {
